@@ -47,8 +47,8 @@ const Home: NextPage = () => {
         </Box>
       </main>
 
-      <footer className={styles.footer}>
-        
+      <footer className={styles.footer} >
+        <Box sx={{py:6}}></Box>
       </footer>
 
       <Dialog
